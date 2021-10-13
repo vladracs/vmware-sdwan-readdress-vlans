@@ -1,6 +1,6 @@
 # vmware-sdwan-readdress-vlans
 
-Simple Python Script that reads a text file containing vlan id and IPs to be readdressed
+Simple Python Script that uses vmware sd-wan orchestrator api to readdress vlan IPs of an vmware sd-wan edge using information read from a text file
 
 Note: 
  Not to be considered as best practices in using VMware VCO API
